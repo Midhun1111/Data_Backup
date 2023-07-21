@@ -1,0 +1,43 @@
+To understand the capabilities of the Angular framework, you need to learn about the following:
+
+Components
+Templates
+Directives
+Dependency injection
+
+Sharing data between child and parent directives and components
+---------------------------------------------------------------
+@Input() and @Output() give a child component a way to communicate with its parent component. 
+@Input() lets a parent component update data in the child component. Conversely,
+ @Output() lets the child send data to a parent component.
+
+
+
+let age:number;
+let n:string;
+let isPrime:boolean;
+let batch:{}
+let book:{
+    name:string,
+    price:number
+}
+b:book={
+    name:"b1",
+    price:120
+};
+b1:book={
+    author:"a1"
+}
+
+/*
+Create a Object of Products and display the 2 differrent
+Products detailes as follows
+First Product
+name : p1
+price: 120
+Second Product
+Category : c1
+*/
+
+let n="abc";
+n=12;//Type inference

@@ -1,0 +1,17 @@
+we use @RESTController
+
+contains:
+ HTTP Request
+ Header Accept -->what is sending is shown here
+ Header 'Content-Type'-->specifies the format of data
+
+
+
+MappingJackson2HttpMessageConverter-->converts json to java object
+
+
+we can use spring-starter-web to add this
+
+
+
+

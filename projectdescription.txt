@@ -1,0 +1,36 @@
+User
+-----------------
+Login
+Register
+Edit Profile
+Products View
+Search By productname,category
+product details
+add to cart
+view cart
+order history
+admin 
+------------------
+add new category
+add new product
+view category,products
+view orders
+
+
+services 
+------------------
+product-service
+====================
+fetchAllCategories()
+fetchById()
+createCategory()
+
+fetchAllProducts()
+fetchByCategory()
+fetchByName()
+increaseStock()
+reduceStock()
+updateStock()
+removeProduct()
+add(Product)
+update(Product)

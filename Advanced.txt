@@ -1,0 +1,19 @@
+CQRS
+--------
+C->commands(write database)->insert,update delete
+Q->queries(read database)
+
+
+CircuitBreakers
+-------------
+
+<dependency> 
+	<groupId>org.springframework.cloud</groupId>
+	<artifactId>spring-cloud-starter-circuitbreaker-resilience4j</artifactId> 
+</dependency>
+<!-- https://mvnrepository.com/artifact/org.springframework/spring-aop -->
+<dependency>
+    <groupId>org.springframework</groupId>
+    <artifactId>spring-aop</artifactId>
+    <version>5.2.24.RELEASE</version>
+</dependency>

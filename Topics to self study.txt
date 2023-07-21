@@ -1,0 +1,9 @@
+internal load balancing with cloud so we used ribbon
+okta,oauth,oauth2
+circuit breaker,resilience4j,patch,promotheus,monitoring,
+graphna(visualisation tool for circuit breaker),no hystrix in 2.7.12 of snapshot,
+openstate configuration of circuitbreaker
+spring security has loadbyusername, or loadbyemail
+junit testing
+
+directives,pipes,

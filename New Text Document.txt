@@ -1,0 +1,9 @@
+Admin can do CRUD on the Products details.​
+User can view the products ,add products to the cart and delete the product from the cart and rate product
+
+Submissions made:-
+-Use case diagram
+-Use case document
+-ER diagram
+-Project structure
+-Wireframe

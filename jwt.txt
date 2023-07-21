@@ -1,0 +1,2 @@
+so i have a project to implement in which i'll be using jwt tokens for security, how do i implement it from angular from authentication to everything else. tell me code implementation  
+how do i access other services using this token.i have username ,password and role based authentication 
